@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @Faridulakthar
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React and JS
+- 👀 I’m interested in Mobile Development
+- 🌱 I’m currently learning Node and Web3
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 reach me: twitter.com/faridulakthar
 
